@@ -1,5 +1,5 @@
 # prop-search
-The purpose of this project is to search the web of current properties available on the market, extract the relevant data to run through our models and any ELT to store the data and derive insight.
+The purpose of this project is to search the web of current properties available on the market, extract the relevant data, perform image classification and NLP and any ETL operation to store the data and derive insight.
 
 ## Keywords
 Python, AWS, GitHub, Web Scraping, NLP, Image Classification, Infrastructure as Code, Data, CI/CD, Insight, Metrics
