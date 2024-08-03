@@ -1,6 +1,9 @@
 # prop-search
 The purpose of this project is to search the web of current properties available on the market, extract the relevant data, perform image classification, and NLP and any ETL operation to store the data and derive insight.
 
+![alt text](https://github.com/MickeyRedaelli/prop-search/blob/main/architecture_diagram.png?raw=true)
+
+
 ## Keywords
 Python, AWS, GitHub, Web Scraping, NLP, Image Classification, Infrastructure as Code, Data, CI/CD, Insight, Metrics
 
